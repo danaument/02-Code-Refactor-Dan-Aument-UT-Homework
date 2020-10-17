@@ -13,7 +13,7 @@ This project serves as a homework assignment submission for the first week of UT
  the resulting site is optimized for search engines.  
 
 ### Screenshot: 
-![Screenshot of web page](/Assets/01-html-css-git-homework-demo.png =250x)
+<img src="./Assets/01-html-css-git-homework-demo.png" width="250x" />
 
 ### Location of Deployed Project
 https://danaument.github.io/02-Code-Refactor-Dan-Aument-UT-Homework/
