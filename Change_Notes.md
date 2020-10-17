@@ -20,5 +20,5 @@ img tags - add alt text
 https://guides.github.com/features/mastering-markdown/
 change header tags
 add meta data
-Line 27 - should I move img from css to html anchor? (saw this indicated on https://support.google.com/webmasters/answer/7451184?hl=en - "Avoid.. Using CSS to display images you want us to index.")
+
 make something into nav?
