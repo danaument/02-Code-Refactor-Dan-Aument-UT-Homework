@@ -1,14 +1,14 @@
 # Title: # 02-Code-Refactor-Dan-Aument-UT-Homework
 
 ## Table of Contents:
-* Description
+* [Description](#Description)
 * Screenshot
 * Location of Deployed Project
 * Notes from Dan
 * Credits
 * License
 
-### Description: 
+### <a name="Description">Description:</a>
 This project serves as a homework assignment submission for the first week of UT's web dev coding bootcamp.  It contains a codebase that follows accessibility standards
  the resulting site is optimized for search engines.  
 
