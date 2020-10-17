@@ -1,6 +1,6 @@
-#Title: # 02-Code-Refactor-Dan-Aument-UT-Homework
+# Title: # 02-Code-Refactor-Dan-Aument-UT-Homework
 
-Table of Contents:
+## Table of Contents:
 * Description
 * Screenshot
 * Location of Deployed Project
@@ -8,20 +8,23 @@ Table of Contents:
 * Credits
 * License
 
-Description: This project serves as a homework assignment submission for the first week of UT's web dev coding bootcamp.  It contains a codebase that follows accessibility standards
+### Description: 
+This project serves as a homework assignment submission for the first week of UT's web dev coding bootcamp.  It contains a codebase that follows accessibility standards
  the resulting site is optimized for search engines.  
 
-Screenshot: ![Screenshot of web page](/Assets/01-html-css-git-homework-demo.png)
+### Screenshot: 
+![Screenshot of web page](/Assets/01-html-css-git-homework-demo.png =250x)
 
-Location of Deployed Project
+### Location of Deployed Project
+https://danaument.github.io/02-Code-Refactor-Dan-Aument-UT-Homework/
 
-Notes from Dan:  
+### Notes from Dan:  
 
-This project was my very first 
+This project was my very first submission for my coding boot camp.  I learned a good deal, including how to properly utilize html semantic elements, how to work with git and github and github pages, and how to write readme files.  I hit a few snags; the biggest was a case sentitivity issue where my relative paths had "assets" but VSCode kept automatically capitalizing the initial letter in the directory "Assets", causing my CSS and image files to fail to load.  I resolved this by changing "assets" to "Assets" in each instance.  I met with my tutor for the first time during the course of this project, and her help both confirmed the work that I had done and pointed me in the right direction in a couple areas.  
 
-Credits:  This project was completed by Dan Aument with help from his tutor, Leah Nelson, using code and assets provided by The Coding Boot Camp at UT Austin in partnership with Trilogy Education Services.  
+### Credits:  This project was completed by Dan Aument with help from his tutor, Leah Nelson, using code and assets provided by The Coding Boot Camp at UT Austin in partnership with Trilogy Education Services.  
 
-License: 
+### License: 
 
 Distributed under the MIT License
 
